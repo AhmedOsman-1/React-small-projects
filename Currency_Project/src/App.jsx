@@ -1,11 +1,12 @@
-import Weather from "./components/Weather"
+import Counter from "./components/Counter"
+
 
 
 
 const App = () => {
   return (
     <div>
-      <Weather />
+      <Counter />
     </div>
   )
 }
