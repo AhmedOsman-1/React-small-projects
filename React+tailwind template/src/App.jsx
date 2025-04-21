@@ -1,12 +1,11 @@
-import Todo from "./components/Todo"
-
+import Weather from "./components/Weather"
 
 
 
 const App = () => {
   return (
     <div>
-      <Todo  />
+      <Weather />
     </div>
   )
 }
