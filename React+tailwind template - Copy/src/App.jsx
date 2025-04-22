@@ -1,11 +1,13 @@
-import Meals from "./components/Meals";
+import Calculator from "./components/Calculator"
+
+
 
 const App = () => {
-    return (
-        <div>
-            <Meals />
-        </div>
-    );
-};
+  return (
+    <div>
+      <Calculator />
+    </div>
+  )
+}
 
-export default App;
+export default App
